@@ -1,0 +1,4 @@
+end-date,entry-date,ownership-status,start-date,slug
+,2021-02-04,owned-by-a-public-authority,2021-02-04,/ownership-status/owned-by-a-public-authority
+,2021-02-04,not-owned-by-a-public-authority,2021-02-04,/ownership-status/not-owned-by-a-public-authority
+,2021-02-04,mixed-ownership,2021-02-04,/ownership-status/mixed-ownership
