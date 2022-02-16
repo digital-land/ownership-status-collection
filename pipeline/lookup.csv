@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 ownership-status,,,owned-by-a-public-authority,10900000
 ownership-status,,,not-owned-by-a-public-authority,10900001
 ownership-status,,,mixed-ownership,10900002
