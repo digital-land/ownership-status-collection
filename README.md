@@ -1,4 +1,4 @@
-# Ownership Status collection
+# Ownership Status collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/ownership-status/blob/master/LICENSE)
 
